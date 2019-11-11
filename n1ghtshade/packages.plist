@@ -11,8 +11,6 @@
 			<string>/Applications/Cydia.app</string>
 			<key>url</key>
 			<string>https://synackuk.github.io/n1ghtshade/packages/cydia.tar</string>
-			<key>image</key>
-			<string>https://synackuk.github.io/n1ghtshade/images/cydia.png</string>
 		</dict>
 	</array>
 </plist>
