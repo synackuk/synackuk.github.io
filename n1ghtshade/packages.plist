@@ -6,7 +6,7 @@
 			<key>title</key>
 			<string>Cydia</string>
 			<key>description</key>
-			<string>The ubiquitous package manager by Saurik</string>
+			<string>The package manager by Saurik</string>
 			<key>install_check</key>
 			<string>/Applications/Cydia.app</string>
 			<key>url</key>
