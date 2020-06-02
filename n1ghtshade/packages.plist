@@ -17,6 +17,8 @@
 			<string>uicache</string>
 			<key>description</key>
 			<string>run uicache</string>
+			<key>url</key>
+			<string>https://synackuk.github.io/n1ghtshade/packages/cydia.tar</string>
 		</dict>
 	</array>
 </plist>
